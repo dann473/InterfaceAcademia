@@ -1,7 +1,7 @@
 package view;
 
-import modais.ModalRenovarPlano;
-import modais.ModalTrocarPlano;
+import view.modais.ModalRenovarPlano;
+import view.modais.ModalTrocarPlano;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
